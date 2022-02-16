@@ -14,9 +14,9 @@ Skills:  HTML / CSS / JAVASCRIPT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivans19314765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivans19314765" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivanshu-singh-b487b6228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanshu-singh-b487b6228/" height="30" width="40" /></a>
-<a href="https://facebook.com/profile.php?id=100026647093082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com" height="30" width="40" /></a>
-<a href="https://instagram.com/shiv_anshu_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_anshu_07/" height="30" width="40" /></a>
+<a href="https://twitter.com/shivans19314765" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivans19314765" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivanshu-singh-b487b6228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivanshu-singh-b487b6228/" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100026647093082" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com" height="30" width="40" /></a>
+<a href="https://instagram.com/shiv_anshu_07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv_anshu_07/" height="30" width="40" /></a>
 </p>
 
