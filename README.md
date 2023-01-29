@@ -1,11 +1,11 @@
 [![MasterHead](https://th.bing.com/th/id/R.3f899396eae86dc8a7b2e3fcc7ec11c2?rik=HSpRNt6cybvefg&riu=http%3a%2f%2fstudiopixel.in%2fwp-content%2fuploads%2f2017%2f11%2f18a4949fc9c8067172d3b96e302e7097.gif&ehk=oICj1OWEVlVcloN62721zi5nfrwD5CgXHpT3AebFB4o%3d&risl=&pid=ImgRaw&r=0)](https://github.com/SHIVanshuSingh07)
-<h1 align="center">Hi <a href="https://github.com/SiddharthaBhattacharjee"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px"></a>, I'm Shivanshu Singh</h1>
+<h1 align="center">Hi <a href="https://github.com/SHIVanshuSingh07"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px"></a>, I'm Shivanshu Singh</h1>
 <h4 align="center"><i>
 I am a undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM IST</b>, Ramapuram</a>, A Student and a passionate developer from India. <a href="https://www.linkedin.com/in/shivanshu-singh-b487b6228"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a><br>
 I am constantly improving myself and trying to learn something new every day. <a href="https://twitter.com/Shivans19314765"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="18px" height="18px"></a></i></h4>
 
 
-<h3 align="left"><a href="https://github.com/SHIVanshuSingh07/github-profile-trophy"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"></a> My Achievements:</h3>
+<h3 align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"></a> My Achievements:</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
@@ -13,9 +13,9 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 <a href="https://github.com/SHIVanshuSingh07?tab=repositories"><img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
 
-<h3 align="left"><a href="https://www.linkedin.com/in/shivanshu-singh-b487b6228/"></a> About Me:</h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/shivanshu-singh-b487b6228/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a> About Me:</h3>
 
-- 🔭 I’m currently working on [#30Days Of Productivity] (https://github.com/SHIVanshuSingh07/e-commerce-websites)
+- 🔭 I’m currently working on [#e-commerce-websites]
 
 - 🌱 I’m currently learning **JavaScript**
 
