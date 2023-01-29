@@ -13,9 +13,9 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 <a href="https://github.com/SHIVanshuSingh07?tab=repositories"><img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
 
-<h3 align="left"><a href="https://www.linkedin.com/in/shivanshu-singh-b487b6228/"><img src="https://i.gifer.com/QDyD.gif" width="30px" height="30px"></a> About Me:</h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/shivanshu-singh-b487b6228/"></a> About Me:</h3>
 
-- 🔭 I’m currently working on [#30Days Of Productivity](https://github.com/SHIVanshuSingh07/e-commerce-websites)
+- 🔭 I’m currently working on [#30Days Of Productivity] (https://github.com/SHIVanshuSingh07/e-commerce-websites)
 
 - 🌱 I’m currently learning **JavaScript**
 
