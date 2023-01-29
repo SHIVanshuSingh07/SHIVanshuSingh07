@@ -5,7 +5,7 @@ I am a undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM IST</b>, 
 I am constantly improving myself and trying to learn something new every day. <a href="https://twitter.com/Shivans19314765"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="18px" height="18px"></a></i></h4>
 
 
-<h3 align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"></a> My Achievements:</h3>
+<h3 align="left"><a href="https://github.com/SHIVanshuSingh07/github-profile-trophy"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"></a> My Achievements:</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=SiddharthaBhattacharjee&theme=discord&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
 
