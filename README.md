@@ -47,7 +47,7 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)  
 
-[![Siddhartha's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHIVanshuSingh07&theme=nord)](https://github.com/SHIVanshuSingh07)
+[![SHIVANSHU SINGH GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHIVanshuSingh07&theme=nord)](https://github.com/SHIVanshuSingh07)
 
 ![Metrics](https://metrics.lecoq.io/SHIVanshuSingh07?template=classic&config.timezone=Asia%2FCalcutta)
 
