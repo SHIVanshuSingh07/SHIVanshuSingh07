@@ -47,14 +47,6 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)  
 
-[![SHIVANSHU SINGH GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHIVanshuSingh07&theme=nord)](https://github.com/SHIVanshuSingh07)
-
-![Metrics](https://metrics.lecoq.io/SHIVanshuSingh07?template=classic&config.timezone=Asia%2FCalcutta)
-
-<h3 align="left"><a href="https://www.holopin.io"><img src="https://github.com/SHIVanshuSingh07/SHIVanshuSingh07/blob/main/assets/output-onlinegiftools%20(6).gif" height="30px"></a> Badges: </h3>
-
-[![@SHIVanshuSingh07 Holopin board](https://holopin.io/api/user/board?user=SHIVanshuSingh07)](https://holopin.io/@SHIVanshuSingh07)
-
 <a href="https://github.com/SHIVanshuSingh07"><img src="https://komarev.com/ghpvc/?username=SHIVanshuSingh07&style=flat-square" alt="ProfileViews" /></a><br>
 
 <!-- 
