@@ -49,8 +49,18 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVanshuSingh07&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVanshuSingh07&show_icons=true&theme=nord)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVanshuSingh07&show_icons=true&theme=nord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)
+
+
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVanshuSingh07&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
 <a href="https://github.com/SHIVanshuSingh07"><img src="https://komarev.com/ghpvc/?username=SHIVanshuSingh07&style=flat-square" alt="ProfileViews" /></a><br>
 
