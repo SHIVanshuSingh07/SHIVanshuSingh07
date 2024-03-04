@@ -49,7 +49,7 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVanshuSingh07&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVanshuSingh07&show_icons=true&theme=nord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVanshuSingh07&show_icons=true&theme=nord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)
 
 
 
