@@ -51,7 +51,9 @@ I am constantly improving myself and trying to learn something new every day. <a
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVanshuSingh07&show_icons=true&theme=nord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SHIVanshuSingh07&theme=nord)
 
-
+<!-- &nbsp; -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SHIVanshuSingh07&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 
 <!-- activity graph heroku-app start -->
@@ -64,7 +66,5 @@ I am constantly improving myself and trying to learn something new every day. <a
 
 <a href="https://github.com/SHIVanshuSingh07"><img src="https://komarev.com/ghpvc/?username=SHIVanshuSingh07&style=flat-square" alt="ProfileViews" /></a><br>
 
-<!-- 
-[![](https://visitcount.itsvg.in/api?id=SiddharthaBhattacharjee&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) . . . . . . .
--->
+
 
